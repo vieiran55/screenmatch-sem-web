@@ -1,8 +1,6 @@
 package br.com.alura.screenmatch.model;
 
-import br.com.alura.screenmatch.service.ConsultaChatGPT;
 import br.com.alura.screenmatch.service.ConsultaLibreTranslate;
-import com.fasterxml.jackson.annotation.JsonAlias;
 import jakarta.persistence.*;
 
 import java.util.ArrayList;
